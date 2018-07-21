@@ -1,0 +1,40 @@
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\bin\Debug\Gamechanger.exe.config
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\bin\Debug\Gamechanger.exe
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\bin\Debug\Gamechanger.pdb
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csprojResolveAssemblyReference.cache
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\obj\Debug\Gamechanger.Properties.Resources.resources
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csproj.GenerateResource.Cache
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csproj.CoreCompileInputs.cache
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\obj\Debug\Gamechanger.exe
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\Gamechanger\obj\Debug\Gamechanger.pdb
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csprojResolveAssemblyReference.cache
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\obj\Debug\Gamechanger.Properties.Resources.resources
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csproj.GenerateResource.Cache
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csproj.CoreCompileInputs.cache
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\obj\Debug\Gamechanger.exe
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\obj\Debug\Gamechanger.pdb
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\bin\Debug\Gamechanger.exe.config
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\bin\Debug\Gamechanger.exe
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\bin\Debug\Gamechanger.pdb
+C:\Users\szara\Desktop\Gamechanger\Gamechanger\obj\Debug\Gamechanger.Form1.resources
+F:\Gamechanger\Gamechanger\bin\Debug\Gamechanger.exe.config
+F:\Gamechanger\Gamechanger\bin\Debug\Gamechanger.exe
+F:\Gamechanger\Gamechanger\bin\Debug\Gamechanger.pdb
+F:\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csprojResolveAssemblyReference.cache
+F:\Gamechanger\Gamechanger\obj\Debug\Gamechanger.Properties.Resources.resources
+F:\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csproj.GenerateResource.Cache
+F:\Gamechanger\Gamechanger\obj\Debug\Gamechanger.csproj.CoreCompileInputs.cache
+F:\Gamechanger\Gamechanger\obj\Debug\Gamechanger.exe
+F:\Gamechanger\Gamechanger\obj\Debug\Gamechanger.pdb
+F:\Gamechanger\Gamechanger\obj\Debug\Gamechanger.GameChanger.resources
+F:\Gamechanger\Gamechanger\bin\Debug\Newtonsoft.Json.dll
+F:\Gamechanger\Gamechanger\bin\Debug\System.Net.Http.Formatting.dll
+F:\Gamechanger\Gamechanger\bin\Debug\System.Web.Http.dll
+F:\Gamechanger\Gamechanger\bin\Debug\System.Web.Http.WebHost.dll
+F:\Gamechanger\Gamechanger\bin\Debug\Newtonsoft.Json.xml
+F:\Gamechanger\Gamechanger\bin\Debug\System.Net.Http.Formatting.xml
+F:\Gamechanger\Gamechanger\bin\Debug\System.Web.Http.xml
+F:\Gamechanger\Gamechanger\bin\Debug\System.Web.Http.WebHost.xml
+F:\Gamechanger\Gamechanger\bin\Debug\Json.dll
+F:\Gamechanger\Gamechanger\bin\Debug\Json.pdb
+F:\Gamechanger\Gamechanger\bin\Debug\ClearUsernameBinding.dll

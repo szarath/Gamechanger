@@ -1,0 +1,30 @@
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\WcfService1\bin\WcfService1.dll.config
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\WcfService1\bin\WcfService1.dll
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\WcfService1\bin\WcfService1.pdb
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\Szarath Kumar\OneDrive\2018\Service computing\Gamechanger\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\szara\Desktop\Gamechanger\WcfService1\bin\WcfService1.dll.config
+C:\Users\szara\Desktop\Gamechanger\WcfService1\bin\WcfService1.dll
+C:\Users\szara\Desktop\Gamechanger\WcfService1\bin\WcfService1.pdb
+C:\Users\szara\Desktop\Gamechanger\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\szara\Desktop\Gamechanger\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\szara\Desktop\Gamechanger\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\szara\Desktop\Gamechanger\WcfService1\obj\Debug\WcfService1.pdb
+F:\Gamechanger\WcfService1\bin\WcfService1.dll.config
+F:\Gamechanger\WcfService1\bin\WcfService1.dll
+F:\Gamechanger\WcfService1\bin\WcfService1.pdb
+F:\Gamechanger\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+F:\Gamechanger\WcfService1\obj\Debug\WcfService1.dll
+F:\Gamechanger\WcfService1\obj\Debug\WcfService1.pdb
+F:\Gamechanger\WcfService1\bin\Newtonsoft.Json.dll
+F:\Gamechanger\WcfService1\bin\System.Net.Http.Formatting.dll
+F:\Gamechanger\WcfService1\bin\System.Web.Http.dll
+F:\Gamechanger\WcfService1\bin\System.Web.Http.WebHost.dll
+F:\Gamechanger\WcfService1\bin\Newtonsoft.Json.xml
+F:\Gamechanger\WcfService1\bin\System.Net.Http.Formatting.xml
+F:\Gamechanger\WcfService1\bin\System.Web.Http.xml
+F:\Gamechanger\WcfService1\bin\System.Web.Http.WebHost.xml
+F:\Gamechanger\WcfService1\bin\ClearUsernameBinding.dll
+F:\Gamechanger\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache

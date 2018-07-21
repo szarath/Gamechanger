@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:50834/Service1.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:50834/Service1.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:50834/Service1.svc?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IService1_Insertdata_InputMessage">
+    <wsdl:part name="parameters" element="tns:Insertdata" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Insertdata_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertdataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getkills_InputMessage">
+    <wsdl:part name="parameters" element="tns:Getkills" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getkills_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetkillsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getdeaths_InputMessage">
+    <wsdl:part name="parameters" element="tns:Getdeaths" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getdeaths_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetdeathsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addgame_InputMessage">
+    <wsdl:part name="parameters" element="tns:Addgame" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Addgame_OutputMessage">
+    <wsdl:part name="parameters" element="tns:AddgameResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getgames_InputMessage">
+    <wsdl:part name="parameters" element="tns:Getgames" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getgames_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetgamesResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getgamesid_InputMessage">
+    <wsdl:part name="parameters" element="tns:Getgamesid" />
+  </wsdl:message>
+  <wsdl:message name="IService1_Getgamesid_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetgamesidResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetIgn_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetIgn" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetIgn_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetIgnResponse" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetSteam_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetSteam" />
+  </wsdl:message>
+  <wsdl:message name="IService1_GetSteam_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetSteamResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IService1">
+    <wsdl:operation name="Insertdata">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Insertdata" message="tns:IService1_Insertdata_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/InsertdataResponse" message="tns:IService1_Insertdata_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Getkills">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Getkills" message="tns:IService1_Getkills_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetkillsResponse" message="tns:IService1_Getkills_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Getdeaths">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Getdeaths" message="tns:IService1_Getdeaths_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetdeathsResponse" message="tns:IService1_Getdeaths_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Addgame">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Addgame" message="tns:IService1_Addgame_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/AddgameResponse" message="tns:IService1_Addgame_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Getgames">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Getgames" message="tns:IService1_Getgames_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetgamesResponse" message="tns:IService1_Getgames_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="Getgamesid">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/Getgamesid" message="tns:IService1_Getgamesid_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetgamesidResponse" message="tns:IService1_Getgamesid_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetIgn">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetIgn" message="tns:IService1_GetIgn_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetIgnResponse" message="tns:IService1_GetIgn_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSteam">
+      <wsdl:input wsaw:Action="http://tempuri.org/IService1/GetSteam" message="tns:IService1_GetSteam_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IService1/GetSteamResponse" message="tns:IService1_GetSteam_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ClearUsernameBinding_IService1" type="tns:IService1">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Insertdata">
+      <soap12:operation soapAction="http://tempuri.org/IService1/Insertdata" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Getkills">
+      <soap12:operation soapAction="http://tempuri.org/IService1/Getkills" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Getdeaths">
+      <soap12:operation soapAction="http://tempuri.org/IService1/Getdeaths" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Addgame">
+      <soap12:operation soapAction="http://tempuri.org/IService1/Addgame" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Getgames">
+      <soap12:operation soapAction="http://tempuri.org/IService1/Getgames" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Getgamesid">
+      <soap12:operation soapAction="http://tempuri.org/IService1/Getgamesid" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetIgn">
+      <soap12:operation soapAction="http://tempuri.org/IService1/GetIgn" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSteam">
+      <soap12:operation soapAction="http://tempuri.org/IService1/GetSteam" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="ClearUsernameBinding_IService1" binding="tns:ClearUsernameBinding_IService1">
+      <soap12:address location="http://localhost:50834/Service1.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
